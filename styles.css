@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: white;
+    max-width: 900px;
+    margin: auto;
+}
+
+head {
+    margin top: 35px;
+    margin-bottom: 0;
+}
+
+
+article.jumbotron {
+    text-align: center;
+    background-image: url(https://unsplash.com/photos/empty-stage-with-lights-8XxF2kYHIgo)/900px/600px/?blur=2;
+    padding: 50px 0 100px;
+    font-size: 50px;
+}
+
+
+a {
+    color: #411ab9;
+}
+
+h2 {
+    color: #130372  
+}
+h2, h3 {
+    text-align: center;
+}
+(0,0,3)
+h2 > h3 > p {
+    color: #ce56be
+}
+
+footer {
+    margin top: 50px;
+    margin bottom: 0
+}
